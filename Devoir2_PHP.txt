@@ -1,0 +1,5 @@
+Le devoir1 a réalisé par:
+Nom:DERIFE   Prénom:Rachida
+Nom:KAISSI   Prénom:Oumaima
+
+Le lien de github: https://github.com/oumakaissi/Devoir2_php
