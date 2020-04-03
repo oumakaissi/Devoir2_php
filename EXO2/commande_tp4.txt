@@ -1,0 +1,12 @@
+20121109-000001 |cli1001| 11-09-2012 | Tomates | 4 | 4.0|13-09-2012 |12 rue des colbris Agadir
+20121209-000001 |cli1001| 11-09-2012 | Pommes  | 6 | 3.5|13-09-2012 |16 rue de paradis fonty Agadir
+20121209-000001 |cli1004| 11-09-2012 | Coca    | 8 | 3.0|13-09-2012 |12 rue de paradis fonty Agadir
+20121209-000001 |cli1004| 11-09-2012 | Tomates | 4 | 4.0|13-09-2012 |22 rue des colbris Agadir
+20121209-000002 |cli1001| 11-09-2012 | Tomates | 6 | 3.5|13-09-2012 |22 rue des colbris Agadir
+20121309-000002 |cli1001| 11-09-2012 | Tomates | 8 | 3.0|13-09-2012 |20 rue de Laayoun fonty Agadir
+20121309-000002 |cli1004| 11-09-2012 | Tomates | 4 | 4.0|13-09-2012 |21 rue de Bensergao Agadir
+20121309-000002 |cli1001| 11-09-2012 | Tomates | 6 | 3.5|13-09-2012 |22 rue de wifaq fonty Agadir
+20121309-000003 |cli1004| 11-09-2012 | Bananes | 8 | 3.0|13-09-2012 |4 rue des colbris Agadir
+20121009-000003 |cli1004| 11-09-2012 | Tomates | 4 | 4.0|13-09-2012 |2 rue des colbris Agadir
+20121109-000003 |cli1001| 11-09-2012 | Tomates | 6 | 3.5|13-09-2012 |27 rue de paradis fonty Agadir
+20121109-000003 |cli1004| 11-09-2012 | Oranges | 8 | 3.0|13-09-2012 |22 rue de alfath dakhla Agadir
